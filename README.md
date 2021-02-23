@@ -1,2 +1,2 @@
-#React Store
+#React Store;
 #Step One : create React App

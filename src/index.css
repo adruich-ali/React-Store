@@ -232,8 +232,8 @@ input {
   z-index: 1000;
 }
 .buttonc {
-  border-radius: 0.5rem;
-  margin: 0.4rem 0rem;
+  border-radius: 0z.5rem;
+  margin: 0.4rem 0.8rem;
   background-color: #f0c040;
   cursor: pointer;
 }

@@ -130,11 +130,65 @@ footer {
 .filter {
   display: flex;
   justify-content: space-between;
-
   padding: 1rem;
   margin: 1rem;
   border-bottom: 0.1rem gray solid;
 }
 .filter div {
+  flex: 1;
+}
+.cart {
+  padding: 1.2rem 1rem;
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cart-header {
+  border-bottom: 0.1rem gray solid;
+}
+.cart-item {
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+.cart-item img {
+  width: 60%;
+  object-fit: cover;
+}
+.cart-item li {
+  background-color: rgb(218, 218, 218);
+  margin: 1rem 0;
+  border-bottom: 0.1rem gray solid;
+  display: flex;
+}
+
+.cart-item li div {
+  padding: 0.5rem;
+}
+.cart-item li div:last-child {
+  flex: 1;
+}
+
+.right {
+  text-align: right;
+}
+.button-remove {
+  padding: 0.4rem 2rem;
+  border: 0.1rem #c0c0c0 solid;
+  background-color: #fdb312;
+  cursor: pointer;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.total > div {
+  font-size: 1.2rem;
+}
+.total > div,
+.total > button {
   flex: 1;
 }

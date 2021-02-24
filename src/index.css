@@ -59,7 +59,7 @@ footer {
   flex-wrap: wrap;
 }
 .main {
-  flex: 3 60rem;
+  flex: 4 60rem;
 }
 .sidebar {
   flex: 1 20rem;
@@ -88,6 +88,7 @@ footer {
   width: 25rem;
   overflow: hidden;
   height: 100%;
+  border-radius: 1.5rem;
 }
 .product a {
   text-decoration: none;
@@ -121,7 +122,19 @@ footer {
   border: 0.1rem #808080 solid;
 }
 .button.primary {
-  margin: 0.2rem 0.2rem;
+  border-radius: 0z.5rem;
+  margin: 0.4rem 0.8rem;
   background-color: #f0c040;
   cursor: pointer;
+}
+.filter {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem gray solid;
+}
+.filter div {
+  flex: 1;
 }

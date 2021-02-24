@@ -6,7 +6,7 @@
         "image": "/images/product1.jpg",
         "description":"Women Dress, Women Casual Dresses Womens Fashion Casual Floral Printed Maxi Dress Short Sleeve Party Long Dress",
         "price": 100,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["S","X", "XL"]
         },
         {
         "_id":"product2",
@@ -14,7 +14,7 @@
         "image": "/images/product2.jpg",
         "description":"Ulanda Elegant Women's Maxi Dress Floral Printed Autumn Long Sleeves Casual Tunic Long Maxi Dress …",
         "price": 50,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["S","L"]
         },
         {
         "_id":"product3",
@@ -22,7 +22,7 @@
         "image": "/images/product3.jpg",
         "description":"DEARCASE Women Long Sleeve Loose Plain Maxi Pockets Dresses Casual Long Dresses",
         "price": 60,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["S","L", "XL"]
         },
         {
         "_id":"product4",
@@ -30,7 +30,7 @@
         "image": "/images/product4.jpg",
         "description":"about Product 1",
         "price": 75.5,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["XL"]
         },
         {
         "_id":"product5",
@@ -38,7 +38,7 @@
         "image": "/images/product5.jpg",
         "description":"DEARCASE Women Long Sleeve Loose Plain Maxi Pockets Dresses Casual Long Dresses",
         "price": 90,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["L"]
         },
         {
         "_id":"product6",
@@ -46,7 +46,7 @@
         "image": "/images/product6.jpg",
         "description":"DEARCASE Women Long Sleeve Loose Plain Maxi Pockets Dresses Casual Long Dresses",
         "price": 50,
-        "availableSize":["S","L","X", "XL"]
+        "availableSize":["S","L","X"]
         }
                         
                         
